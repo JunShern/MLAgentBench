@@ -2,6 +2,6 @@ from setuptools import setup, find_namespace_packages
 
 setup(
     name='MLAgentBench',
-    version='0.1',
+    version='0.2',
     packages=find_namespace_packages(),
 )
